@@ -1,0 +1,3 @@
+algorithm,runtime_seconds,n_frequent_itemsets,max_itemset_size
+apriori,0.1278,925,4
+fpgrowth,0.0855,925,4

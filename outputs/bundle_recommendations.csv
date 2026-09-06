@@ -1,0 +1,4 @@
+bundle_name,items,n_items,full_price,bundle_price,savings,discount_pct,support,confidence,lift,rationale
+BBQ Sauce + Burger Buns + Charcoal Bag + Ground Beef Bundle,"BBQ Sauce, Burger Buns, Charcoal Bag, Ground Beef",4,21.8,20.06,1.74,8%,0.0054,0.757,115.67,"Bought together 76% of the time when Charcoal Bag, Ground Beef is purchased, at 115.7x the baseline rate."
+Parmesan Cheese + Spaghetti + Tomato Pasta Sauce Bundle,"Parmesan Cheese, Spaghetti, Tomato Pasta Sauce",3,11.5,10.58,0.92,8%,0.0063,1.0,53.03,"Bought together 100% of the time when Parmesan Cheese, Tomato Pasta Sauce is purchased, at 53.0x the baseline rate."
+BBQ Sauce + Burger Buns + Charcoal Bag Bundle,"BBQ Sauce, Burger Buns, Charcoal Bag",3,14.9,13.71,1.19,8%,0.006,0.912,41.2,"Bought together 91% of the time when BBQ Sauce, Burger Buns is purchased, at 41.2x the baseline rate."

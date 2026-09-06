@@ -1,0 +1,14 @@
+{
+  "n_rows_in": 21124,
+  "n_rows_out": 20983,
+  "n_transactions_in": 5200,
+  "n_transactions_out": 5197,
+  "dropped_blank_items": 63,
+  "dropped_duplicate_lines": 78,
+  "dropped_singleton_baskets": 449,
+  "warnings": [
+    "Dropped 63 row(s) with blank/invalid item names (likely scanner errors).",
+    "Removed 78 duplicate line-item scan(s) (same item scanned twice in the same basket).",
+    "449 transaction(s) (8.6%) have fewer than 2 distinct item(s) and cannot contribute association rules on their own."
+  ]
+}

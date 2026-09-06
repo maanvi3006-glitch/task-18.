@@ -1,0 +1,926 @@
+support,itemsets,itemset_size
+0.10583028670386761,Ground Beef,1
+0.09717144506446027,Laundry Detergent,1
+0.09620935154897056,Bagels,1
+0.09409274581489321,Milk 1L,1
+0.09332307100250144,Paper Towels,1
+0.09236097748701173,Frozen Fries,1
+0.09197614008081585,Frozen Pizza,1
+0.09178372137771791,Croissants,1
+0.09120646526842409,Dish Soap,1
+0.09101404656532615,Chicken Breast,1
+0.09062920915913027,Whole Wheat Bread,1
+0.08947469694054262,Ice Cream,1
+0.08908985953434674,Salsa Dip,1
+0.08908985953434674,White Bread,1
+0.08832018472195498,Guacamole Dip,1
+0.08812776601885704,Sausages,1
+0.08812776601885704,Bacon,1
+0.0879353473157591,Frozen Vegetables,1
+0.0879353473157591,Trash Bags,1
+0.08735809120646527,Butter,1
+0.08716567250336733,Cola 2L,1
+0.08427939195689821,Eggs (12ct),1
+0.08350971714450645,Sugar,1
+0.08197036751972292,Wine Bottle,1
+0.08177794881662498,Beer 6-Pack,1
+0.0790840869732538,Energy Drink,1
+0.07889166827015585,Pretzels,1
+0.07889166827015585,Greek Yogurt,1
+0.07831441216086203,Cereal,1
+0.07715989994227439,Cheddar Cheese,1
+0.07619780642678468,Coffee,1
+0.07600538772368674,Oatmeal,1
+0.07408120069270734,Tortilla Chips,1
+0.07408120069270734,Sparkling Water,1
+0.07273426977102174,Orange Juice,1
+0.07177217625553203,Potato Chips,1
+0.06984798922455263,Bananas,1
+0.06869347700596498,Apples,1
+0.0673465460842794,Avocado,1
+0.06446026553781027,Lettuce,1
+0.06426784683471233,Tomatoes,1
+0.06041947277275351,Onions,1
+0.049259187993072925,Tomato Pasta Sauce,1
+0.03348085433904176,Strawberry Jam,1
+0.03290359822974793,Ketchup,1
+0.03271117952664999,Paper Plates,1
+0.032133923417356165,Burger Buns,1
+0.02867038676159323,BBQ Sauce,1
+0.028093130652299403,Baby Wipes,1
+0.02770829324610352,Candles,1
+0.02578410621512411,Peanut Butter,1
+0.02405233788724264,Baby Food Jars,1
+0.02347508177794882,Parmesan Cheese,1
+0.022705406965557052,Penne,1
+0.02232056955936117,Mustard,1
+0.02232056955936117,"Cereal, Milk 1L",2
+0.02212815085626323,Charcoal Bag,1
+0.0205888012314797,Balloons Pack,1
+0.02039638252838176,"Butter, White Bread",2
+0.02020396382528382,Ice Bag,1
+0.019626707715989993,Nutella,1
+0.019626707715989993,Honey,1
+0.01885703290359823,Spaghetti,1
+0.0173176832788147,Diapers Pack,1
+0.0173176832788147,Baby Formula,1
+0.016548008466422938,Garlic Bread,1
+0.016548008466422938,"Bacon, Eggs (12ct)",2
+0.01539349624783529,"Cola 2L, Frozen Pizza",2
+0.01539349624783529,"Burger Buns, Ground Beef",2
+0.01520107754473735,"Penne, Tomato Pasta Sauce",2
+0.015008658841639407,"Spaghetti, Tomato Pasta Sauce",2
+0.014816240138541466,"Salsa Dip, Tortilla Chips",2
+0.014431402732345585,"Ground Beef, Ketchup",2
+0.014238984029247642,"Guacamole Dip, Tortilla Chips",2
+0.01346930921685588,"Frozen Pizza, Ground Beef",2
+0.01346930921685588,"Bagels, Frozen Pizza",2
+0.01346930921685588,"Coffee, Sugar",2
+0.01346930921685588,"Bagels, Frozen Vegetables",2
+0.013084471810659996,"Frozen Pizza, Whole Wheat Bread",2
+0.012892053107562055,"Peanut Butter, Strawberry Jam",2
+0.012699634404464115,"Bagels, Ground Beef",2
+0.012699634404464115,"Croissants, Paper Towels",2
+0.012699634404464115,"Bagels, Paper Towels",2
+0.012699634404464115,"Chicken Breast, Dish Soap",2
+0.012699634404464115,"Bacon, Frozen Fries",2
+0.012314796998268231,"Guacamole Dip, Whole Wheat Bread",2
+0.012314796998268231,"Bacon, Whole Wheat Bread",2
+0.012314796998268231,"Croissants, Sausages",2
+0.012314796998268231,"Bagels, Laundry Detergent",2
+0.012314796998268231,"Ground Beef, Whole Wheat Bread",2
+0.012314796998268231,"Ground Beef, Sugar",2
+0.012314796998268231,"Baby Wipes, Diapers Pack",2
+0.01212237829517029,"Bagels, Dish Soap",2
+0.01212237829517029,"Bacon, Frozen Vegetables",2
+0.01212237829517029,"Sugar, Trash Bags",2
+0.01212237829517029,"Cola 2L, Whole Wheat Bread",2
+0.01212237829517029,"Frozen Vegetables, Ground Beef",2
+0.01192995959207235,"Bacon, Laundry Detergent",2
+0.01192995959207235,"Frozen Fries, Sausages",2
+0.01192995959207235,"Croissants, Ground Beef",2
+0.01192995959207235,"Bagels, Frozen Fries",2
+0.01173754088897441,"Paper Towels, Wine Bottle",2
+0.01173754088897441,"Frozen Pizza, Paper Towels",2
+0.01173754088897441,"Frozen Vegetables, Sausages",2
+0.01173754088897441,"Frozen Vegetables, Paper Towels",2
+0.01173754088897441,"Croissants, Trash Bags",2
+0.01173754088897441,"Frozen Pizza, Laundry Detergent",2
+0.01173754088897441,"Dish Soap, Sausages",2
+0.01173754088897441,"Croissants, Dish Soap",2
+0.011545122185876467,"Butter, Frozen Fries",2
+0.011545122185876467,"Guacamole Dip, Salsa Dip",2
+0.011545122185876467,"Cheddar Cheese, Wine Bottle",2
+0.011545122185876467,"Cola 2L, Laundry Detergent",2
+0.011545122185876467,"Frozen Fries, Ground Beef",2
+0.011545122185876467,"Bacon, Butter",2
+0.011545122185876467,"Bagels, Croissants",2
+0.011545122185876467,"Paper Towels, Sausages",2
+0.011545122185876467,"Sausages, Trash Bags",2
+0.011352703482778526,"Dish Soap, Laundry Detergent",2
+0.011352703482778526,"Laundry Detergent, Trash Bags",2
+0.011352703482778526,"Dish Soap, Wine Bottle",2
+0.011352703482778526,"Chicken Breast, Eggs (12ct)",2
+0.011352703482778526,"Frozen Fries, Frozen Vegetables",2
+0.011352703482778526,"Bagels, Greek Yogurt",2
+0.011352703482778526,"Bagels, Whole Wheat Bread",2
+0.011160284779680585,"Ground Beef, Trash Bags",2
+0.011160284779680585,"Ground Beef, Sausages",2
+0.011160284779680585,"Frozen Pizza, Trash Bags",2
+0.011160284779680585,"Croissants, Frozen Vegetables",2
+0.011160284779680585,"Sugar, White Bread",2
+0.011160284779680585,"Bacon, Paper Towels",2
+0.011160284779680585,"Greek Yogurt, Paper Towels",2
+0.011160284779680585,"Chicken Breast, Ground Beef",2
+0.011160284779680585,"Frozen Fries, Frozen Pizza",2
+0.011160284779680585,"Whole Wheat Bread, Wine Bottle",2
+0.010967866076582644,"Bagels, Trash Bags",2
+0.010967866076582644,"Bagels, Ice Cream",2
+0.010967866076582644,"Sausages, White Bread",2
+0.010967866076582644,"Apples, Bagels",2
+0.010967866076582644,"Croissants, Milk 1L",2
+0.010967866076582644,"Croissants, Ice Cream",2
+0.010967866076582644,"Bacon, Cola 2L",2
+0.010967866076582644,"Bacon, Bagels",2
+0.010967866076582644,"Cola 2L, White Bread",2
+0.010967866076582644,"Cereal, Croissants",2
+0.010967866076582644,"Guacamole Dip, Laundry Detergent",2
+0.010967866076582644,"Laundry Detergent, Sugar",2
+0.010967866076582644,"Ice Cream, Laundry Detergent",2
+0.010775447373484702,"Orange Juice, Paper Towels",2
+0.010775447373484702,"Energy Drink, Sausages",2
+0.010775447373484702,"Bacon, Croissants",2
+0.010775447373484702,"Milk 1L, Paper Towels",2
+0.010775447373484702,"Ground Beef, Paper Towels",2
+0.010775447373484702,"Croissants, Frozen Pizza",2
+0.010775447373484702,"Dish Soap, Whole Wheat Bread",2
+0.010775447373484702,"Laundry Detergent, Whole Wheat Bread",2
+0.010775447373484702,"Chicken Breast, White Bread",2
+0.010775447373484702,"Ground Beef, Ice Cream",2
+0.010583028670386761,"Frozen Fries, Orange Juice",2
+0.010583028670386761,"Chicken Breast, Frozen Fries",2
+0.010583028670386761,"Bacon, Energy Drink",2
+0.010583028670386761,"Croissants, Wine Bottle",2
+0.010583028670386761,"Croissants, Laundry Detergent",2
+0.010583028670386761,"Frozen Pizza, Frozen Vegetables",2
+0.010583028670386761,"Frozen Fries, Laundry Detergent",2
+0.010583028670386761,"Croissants, Greek Yogurt",2
+0.010583028670386761,"Lettuce, Paper Towels",2
+0.010583028670386761,"Ground Beef, Guacamole Dip",2
+0.010583028670386761,"Paper Towels, White Bread",2
+0.010583028670386761,"Frozen Vegetables, Whole Wheat Bread",2
+0.010583028670386761,"Energy Drink, Ground Beef",2
+0.010583028670386761,"Laundry Detergent, Wine Bottle",2
+0.010583028670386761,"Laundry Detergent, Paper Towels",2
+0.010583028670386761,"Ground Beef, Pretzels",2
+0.01039060996728882,"Laundry Detergent, Sausages",2
+0.01039060996728882,"Beer 6-Pack, Whole Wheat Bread",2
+0.01039060996728882,"Croissants, Pretzels",2
+0.01039060996728882,"Beer 6-Pack, Croissants",2
+0.01039060996728882,"Bacon, Ice Cream",2
+0.01039060996728882,"Milk 1L, White Bread",2
+0.01039060996728882,"Chicken Breast, Frozen Pizza",2
+0.01039060996728882,"Greek Yogurt, Laundry Detergent",2
+0.01039060996728882,"Croissants, Whole Wheat Bread",2
+0.01039060996728882,"Croissants, Frozen Fries",2
+0.01039060996728882,"Frozen Pizza, Sausages",2
+0.01039060996728882,"Bagels, Sausages",2
+0.01039060996728882,"Milk 1L, Sausages",2
+0.01039060996728882,"Frozen Fries, Greek Yogurt",2
+0.01039060996728882,"Apples, Croissants",2
+0.01039060996728882,"Cola 2L, Ice Cream",2
+0.01019819126419088,"Chicken Breast, Croissants",2
+0.01019819126419088,"Cheddar Cheese, Laundry Detergent",2
+0.01019819126419088,"Paper Towels, Sugar",2
+0.01019819126419088,"Bacon, Frozen Pizza",2
+0.01019819126419088,"Frozen Vegetables, Greek Yogurt",2
+0.01019819126419088,"Frozen Vegetables, Guacamole Dip",2
+0.01019819126419088,"Beer 6-Pack, Ground Beef",2
+0.01019819126419088,"Butter, Laundry Detergent",2
+0.01019819126419088,"Chicken Breast, Pretzels",2
+0.01019819126419088,"Laundry Detergent, White Bread",2
+0.01019819126419088,"Butter, Croissants",2
+0.01019819126419088,"Bagels, Coffee",2
+0.01019819126419088,"Cola 2L, Frozen Fries",2
+0.01019819126419088,"Frozen Vegetables, Salsa Dip",2
+0.01019819126419088,"Paper Towels, Whole Wheat Bread",2
+0.01019819126419088,"Ice Cream, Salsa Dip",2
+0.010005772561092939,"Frozen Fries, Wine Bottle",2
+0.010005772561092939,"Bacon, Ground Beef",2
+0.010005772561092939,"Bagels, Butter",2
+0.010005772561092939,"Milk 1L, Trash Bags",2
+0.010005772561092939,"Bagels, Guacamole Dip",2
+0.010005772561092939,"Ground Beef, Salsa Dip",2
+0.010005772561092939,"Bacon, Sparkling Water",2
+0.010005772561092939,"Chicken Breast, Sparkling Water",2
+0.010005772561092939,"Ground Beef, Wine Bottle",2
+0.010005772561092939,"Butter, Paper Towels",2
+0.010005772561092939,"Guacamole Dip, White Bread",2
+0.010005772561092939,"Dish Soap, Frozen Fries",2
+0.010005772561092939,"Frozen Vegetables, Ice Cream",2
+0.010005772561092939,"Croissants, Tortilla Chips",2
+0.010005772561092939,"Chicken Breast, Trash Bags",2
+0.010005772561092939,"Croissants, Oatmeal",2
+0.010005772561092939,"White Bread, Whole Wheat Bread",2
+0.010005772561092939,"Beer 6-Pack, Dish Soap",2
+0.010005772561092939,"Frozen Fries, Guacamole Dip",2
+0.010005772561092939,"Frozen Fries, Ice Cream",2
+0.009813353857994997,"Chicken Breast, Whole Wheat Bread",2
+0.009813353857994997,"Croissants, Eggs (12ct)",2
+0.009813353857994997,"Ground Beef, Sparkling Water",2
+0.009813353857994997,"Ice Cream, Trash Bags",2
+0.009813353857994997,"Guacamole Dip, Milk 1L",2
+0.009813353857994997,"Chicken Breast, Ice Cream",2
+0.009813353857994997,"Eggs (12ct), Whole Wheat Bread",2
+0.009813353857994997,"Croissants, White Bread",2
+0.009813353857994997,"Frozen Fries, White Bread",2
+0.009813353857994997,"Bagels, White Bread",2
+0.009813353857994997,"Milk 1L, Whole Wheat Bread",2
+0.009813353857994997,"Bacon, Cheddar Cheese",2
+0.009813353857994997,"Frozen Vegetables, White Bread",2
+0.009813353857994997,"Cola 2L, Milk 1L",2
+0.009813353857994997,"Chicken Breast, Cola 2L",2
+0.009813353857994997,"Cola 2L, Croissants",2
+0.009813353857994997,"Dish Soap, Eggs (12ct)",2
+0.009620935154897056,"Ice Cream, Wine Bottle",2
+0.009620935154897056,"Greek Yogurt, Trash Bags",2
+0.009620935154897056,"Ground Beef, Laundry Detergent",2
+0.009620935154897056,"Greek Yogurt, Milk 1L",2
+0.009620935154897056,"Greek Yogurt, Sausages",2
+0.009620935154897056,"Butter, Chicken Breast",2
+0.009620935154897056,"Butter, Frozen Vegetables",2
+0.009620935154897056,"Chicken Breast, Laundry Detergent",2
+0.009620935154897056,"Cola 2L, Ground Beef",2
+0.009620935154897056,"Ice Cream, Pretzels",2
+0.009620935154897056,"Frozen Fries, Pretzels",2
+0.009620935154897056,"Ground Beef, White Bread",2
+0.009620935154897056,"Ice Cream, Whole Wheat Bread",2
+0.009620935154897056,"Frozen Vegetables, Laundry Detergent",2
+0.009620935154897056,"Guacamole Dip, Sugar",2
+0.009620935154897056,"Bagels, Cola 2L",2
+0.009620935154897056,"Bacon, Orange Juice",2
+0.009620935154897056,"Bagels, Beer 6-Pack",2
+0.009620935154897056,"Cheddar Cheese, White Bread",2
+0.009620935154897056,"Frozen Fries, Whole Wheat Bread",2
+0.009620935154897056,"Milk 1L, Sugar",2
+0.009620935154897056,"Frozen Vegetables, Pretzels",2
+0.009428516451799115,"Dish Soap, Sparkling Water",2
+0.009428516451799115,"Bacon, Milk 1L",2
+0.009428516451799115,"Paper Towels, Trash Bags",2
+0.009428516451799115,"Energy Drink, White Bread",2
+0.009428516451799115,"Bagels, Energy Drink",2
+0.009428516451799115,"BBQ Sauce, Charcoal Bag",2
+0.009428516451799115,"Greek Yogurt, Ice Cream",2
+0.009428516451799115,"Chicken Breast, Frozen Vegetables",2
+0.009428516451799115,"Coffee, Salsa Dip",2
+0.009428516451799115,"Balloons Pack, Candles",2
+0.009428516451799115,"Cola 2L, Guacamole Dip",2
+0.009428516451799115,"Butter, Sparkling Water",2
+0.009428516451799115,"Ground Beef, Oatmeal",2
+0.009428516451799115,"Chicken Breast, Milk 1L",2
+0.009428516451799115,"Coffee, Trash Bags",2
+0.009428516451799115,"Beer 6-Pack, White Bread",2
+0.009428516451799115,"Beer 6-Pack, Frozen Vegetables",2
+0.009428516451799115,"Frozen Pizza, Sugar",2
+0.009428516451799115,"Laundry Detergent, Tomatoes",2
+0.009236097748701174,"Butter, Ice Cream",2
+0.009236097748701174,"Milk 1L, Sparkling Water",2
+0.009236097748701174,"Butter, Eggs (12ct)",2
+0.009236097748701174,"Chicken Breast, Wine Bottle",2
+0.009236097748701174,"Ice Cream, Paper Towels",2
+0.009236097748701174,"Beer 6-Pack, Frozen Fries",2
+0.009236097748701174,"Salsa Dip, Whole Wheat Bread",2
+0.009236097748701174,"Dish Soap, Ground Beef",2
+0.009236097748701174,"Tomatoes, Trash Bags",2
+0.009236097748701174,"Bananas, Chicken Breast",2
+0.009236097748701174,"Avocado, Paper Towels",2
+0.009236097748701174,"Cereal, Laundry Detergent",2
+0.009236097748701174,"Energy Drink, Frozen Pizza",2
+0.009236097748701174,"Paper Towels, Potato Chips",2
+0.009236097748701174,"Energy Drink, Milk 1L",2
+0.009236097748701174,"Balloons Pack, Paper Plates",2
+0.009236097748701174,"Bagels, Eggs (12ct)",2
+0.009236097748701174,"Frozen Pizza, Milk 1L",2
+0.009236097748701174,"Cereal, Trash Bags",2
+0.009236097748701174,"Cereal, White Bread",2
+0.009236097748701174,"Greek Yogurt, White Bread",2
+0.009236097748701174,"Avocado, Whole Wheat Bread",2
+0.009236097748701174,"Cereal, Dish Soap",2
+0.009236097748701174,"Cereal, Cola 2L",2
+0.009236097748701174,"Cola 2L, Eggs (12ct)",2
+0.009236097748701174,"Ice Cream, Sausages",2
+0.009236097748701174,"Coffee, Croissants",2
+0.009236097748701174,"Coffee, Frozen Pizza",2
+0.009236097748701174,"Burger Buns, Charcoal Bag",2
+0.009236097748701174,"Croissants, Guacamole Dip",2
+0.009236097748701174,"Butter, Whole Wheat Bread",2
+0.009236097748701174,"Coffee, Laundry Detergent",2
+0.009236097748701174,"Ice Cream, Milk 1L",2
+0.009236097748701174,"Avocado, Bagels",2
+0.009043679045603232,"Butter, Guacamole Dip",2
+0.009043679045603232,"Sugar, Wine Bottle",2
+0.009043679045603232,"Butter, Ground Beef",2
+0.009043679045603232,"Avocado, Chicken Breast",2
+0.009043679045603232,"Laundry Detergent, Potato Chips",2
+0.009043679045603232,"Croissants, Orange Juice",2
+0.009043679045603232,"Laundry Detergent, Sparkling Water",2
+0.009043679045603232,"Frozen Pizza, Salsa Dip",2
+0.009043679045603232,"Cereal, Guacamole Dip",2
+0.009043679045603232,"Cereal, Frozen Pizza",2
+0.009043679045603232,"Guacamole Dip, Ice Cream",2
+0.009043679045603232,"Eggs (12ct), Sparkling Water",2
+0.009043679045603232,"Dish Soap, Tortilla Chips",2
+0.009043679045603232,"Dish Soap, Sugar",2
+0.009043679045603232,"Eggs (12ct), Lettuce",2
+0.009043679045603232,"Eggs (12ct), Ice Cream",2
+0.009043679045603232,"Dish Soap, White Bread",2
+0.009043679045603232,"Eggs (12ct), Frozen Fries",2
+0.009043679045603232,"Coffee, Dish Soap",2
+0.009043679045603232,"Chicken Breast, Paper Towels",2
+0.009043679045603232,"Frozen Fries, Trash Bags",2
+0.009043679045603232,"Frozen Pizza, Ice Cream",2
+0.009043679045603232,"Cheddar Cheese, Energy Drink",2
+0.009043679045603232,"Bagels, Sugar",2
+0.009043679045603232,"Energy Drink, Wine Bottle",2
+0.009043679045603232,"Eggs (12ct), Sausages",2
+0.009043679045603232,"Bagels, Salsa Dip",2
+0.009043679045603232,"Cheddar Cheese, Sausages",2
+0.009043679045603232,"Apples, Paper Towels",2
+0.009043679045603232,"Bacon, Sugar",2
+0.009043679045603232,"Bacon, Wine Bottle",2
+0.009043679045603232,"Frozen Pizza, Guacamole Dip",2
+0.009043679045603232,"Dish Soap, Orange Juice",2
+0.009043679045603232,"Dish Soap, Pretzels",2
+0.009043679045603232,"Dish Soap, Paper Towels",2
+0.009043679045603232,"Pretzels, Sausages",2
+0.008851260342505291,"Frozen Fries, Milk 1L",2
+0.008851260342505291,"Frozen Fries, Sparkling Water",2
+0.008851260342505291,"Frozen Fries, Salsa Dip",2
+0.008851260342505291,"Chicken Breast, Sugar",2
+0.008851260342505291,"Beer 6-Pack, Milk 1L",2
+0.008851260342505291,"Cheddar Cheese, Milk 1L",2
+0.008851260342505291,"Greek Yogurt, Wine Bottle",2
+0.008851260342505291,"Cheddar Cheese, Sugar",2
+0.008851260342505291,"Ground Beef, Milk 1L",2
+0.008851260342505291,"Butter, Orange Juice",2
+0.008851260342505291,"Croissants, Sugar",2
+0.008851260342505291,"Cheddar Cheese, Frozen Pizza",2
+0.008851260342505291,"Cola 2L, Sausages",2
+0.008851260342505291,"Cola 2L, Trash Bags",2
+0.008851260342505291,"Eggs (12ct), Paper Towels",2
+0.008851260342505291,"Cola 2L, Oatmeal",2
+0.008851260342505291,"Sparkling Water, Trash Bags",2
+0.008851260342505291,"Sausages, Whole Wheat Bread",2
+0.008851260342505291,"Orange Juice, Sausages",2
+0.008851260342505291,"Paper Towels, Salsa Dip",2
+0.008851260342505291,"Bacon, Chicken Breast",2
+0.008851260342505291,"Frozen Fries, Sugar",2
+0.008851260342505291,"Eggs (12ct), White Bread",2
+0.008851260342505291,"Beer 6-Pack, Chicken Breast",2
+0.008851260342505291,"Beer 6-Pack, Energy Drink",2
+0.008851260342505291,"Milk 1L, Pretzels",2
+0.008851260342505291,"Milk 1L, Salsa Dip",2
+0.008851260342505291,"Butter, Cheddar Cheese",2
+0.008851260342505291,"Butter, Coffee",2
+0.008851260342505291,"Frozen Vegetables, Sugar",2
+0.008851260342505291,"Coffee, Pretzels",2
+0.008851260342505291,"Apples, Frozen Vegetables",2
+0.008851260342505291,"Croissants, Energy Drink",2
+0.008851260342505291,"Laundry Detergent, Salsa Dip",2
+0.00865884163940735,"Frozen Pizza, Wine Bottle",2
+0.00865884163940735,"Beer 6-Pack, Orange Juice",2
+0.00865884163940735,"Laundry Detergent, Tortilla Chips",2
+0.00865884163940735,"Pretzels, White Bread",2
+0.00865884163940735,"Sugar, Tortilla Chips",2
+0.00865884163940735,"Frozen Vegetables, Milk 1L",2
+0.00865884163940735,"Bagels, Milk 1L",2
+0.00865884163940735,"Cola 2L, Frozen Vegetables",2
+0.00865884163940735,"Cereal, Coffee",2
+0.00865884163940735,"Cola 2L, Dish Soap",2
+0.00865884163940735,"Cereal, Frozen Vegetables",2
+0.00865884163940735,"Energy Drink, Ice Cream",2
+0.00865884163940735,"Butter, Trash Bags",2
+0.00865884163940735,"Cheddar Cheese, Whole Wheat Bread",2
+0.00865884163940735,"Dish Soap, Milk 1L",2
+0.00865884163940735,"Butter, Milk 1L",2
+0.00865884163940735,"Croissants, Tomatoes",2
+0.00865884163940735,"Cola 2L, Potato Chips",2
+0.00865884163940735,"Chicken Breast, Sausages",2
+0.00865884163940735,"Butter, Tortilla Chips",2
+0.00865884163940735,"Paper Towels, Tortilla Chips",2
+0.00865884163940735,"Oatmeal, Sausages",2
+0.00865884163940735,"Bacon, White Bread",2
+0.00865884163940735,"Energy Drink, Sugar",2
+0.00865884163940735,"Avocado, Milk 1L",2
+0.00865884163940735,"Cola 2L, Energy Drink",2
+0.00865884163940735,"Bacon, Pretzels",2
+0.00846642293630941,"Avocado, Laundry Detergent",2
+0.00846642293630941,"Coffee, Sparkling Water",2
+0.00846642293630941,"Sugar, Whole Wheat Bread",2
+0.00846642293630941,"Salsa Dip, Sausages",2
+0.00846642293630941,"Avocado, Croissants",2
+0.00846642293630941,"Tortilla Chips, White Bread",2
+0.00846642293630941,"Sparkling Water, Whole Wheat Bread",2
+0.00846642293630941,"Sausages, Tortilla Chips",2
+0.00846642293630941,"Butter, Oatmeal",2
+0.00846642293630941,"Dish Soap, Frozen Pizza",2
+0.00846642293630941,"Chicken Breast, Energy Drink",2
+0.00846642293630941,"Beer 6-Pack, Potato Chips",2
+0.00846642293630941,"Laundry Detergent, Milk 1L",2
+0.00846642293630941,"Beer 6-Pack, Trash Bags",2
+0.00846642293630941,"Greek Yogurt, Pretzels",2
+0.00846642293630941,"Dish Soap, Ice Cream",2
+0.00846642293630941,"Frozen Pizza, Orange Juice",2
+0.00846642293630941,"Bagels, Pretzels",2
+0.00846642293630941,"Ice Cream, Sparkling Water",2
+0.00846642293630941,"Oatmeal, Paper Towels",2
+0.00846642293630941,"Energy Drink, Greek Yogurt",2
+0.00846642293630941,"Energy Drink, Orange Juice",2
+0.00846642293630941,"Energy Drink, Whole Wheat Bread",2
+0.00846642293630941,"Oatmeal, White Bread",2
+0.00846642293630941,"Bagels, Cereal",2
+0.00846642293630941,"Energy Drink, Trash Bags",2
+0.00846642293630941,"Bananas, Sausages",2
+0.00846642293630941,"Eggs (12ct), Ground Beef",2
+0.00846642293630941,"Frozen Pizza, White Bread",2
+0.00846642293630941,"Eggs (12ct), Laundry Detergent",2
+0.00846642293630941,"Laundry Detergent, Pretzels",2
+0.00846642293630941,"Ice Cream, White Bread",2
+0.008274004233211469,"Salsa Dip, Trash Bags",2
+0.008274004233211469,"Trash Bags, White Bread",2
+0.008274004233211469,"Frozen Fries, Lettuce",2
+0.008274004233211469,"Frozen Vegetables, Trash Bags",2
+0.008274004233211469,"Cereal, Paper Towels",2
+0.008274004233211469,"Cereal, Oatmeal",2
+0.008274004233211469,"Dish Soap, Oatmeal",2
+0.008274004233211469,"Cheddar Cheese, Trash Bags",2
+0.008274004233211469,"Cheddar Cheese, Ice Cream",2
+0.008274004233211469,"Beer 6-Pack, Cola 2L",2
+0.008274004233211469,"Cereal, Whole Wheat Bread",2
+0.008274004233211469,"Cheddar Cheese, Chicken Breast",2
+0.008274004233211469,"Ground Beef, Orange Juice",2
+0.008274004233211469,"Ground Beef, Tortilla Chips",2
+0.008274004233211469,"Croissants, Sparkling Water",2
+0.008274004233211469,"Butter, Wine Bottle",2
+0.008274004233211469,"Eggs (12ct), Frozen Vegetables",2
+0.008274004233211469,"Eggs (12ct), Frozen Pizza",2
+0.008274004233211469,"Dish Soap, Trash Bags",2
+0.008274004233211469,"Cola 2L, Sparkling Water",2
+0.008274004233211469,"Coffee, Ice Cream",2
+0.008274004233211469,"Coffee, Cola 2L",2
+0.008274004233211469,"Bananas, Trash Bags",2
+0.008274004233211469,"Guacamole Dip, Wine Bottle",2
+0.008274004233211469,"Beer 6-Pack, Pretzels",2
+0.008274004233211469,"Ice Cream, Oatmeal",2
+0.008274004233211469,"Eggs (12ct), Milk 1L",2
+0.008274004233211469,"Eggs (12ct), Orange Juice",2
+0.008274004233211469,"Ice Cream, Orange Juice",2
+0.008274004233211469,"Ice Cream, Tomatoes",2
+0.008274004233211469,"Croissants, Onions",2
+0.008274004233211469,"Frozen Pizza, Potato Chips",2
+0.008274004233211469,"Bacon, Oatmeal",2
+0.008274004233211469,"Energy Drink, Paper Towels",2
+0.008274004233211469,"Bagels, Orange Juice",2
+0.008274004233211469,"Bagels, Chicken Breast",2
+0.008274004233211469,"Bananas, Frozen Pizza",2
+0.008274004233211469,"Energy Drink, Frozen Fries",2
+0.008274004233211469,"Oatmeal, Sugar",2
+0.008274004233211469,"Oatmeal, Trash Bags",2
+0.008274004233211469,"Pretzels, Salsa Dip",2
+0.008274004233211469,"Potato Chips, Whole Wheat Bread",2
+0.008274004233211469,"Potato Chips, Trash Bags",2
+0.008274004233211469,"Energy Drink, Pretzels",2
+0.008274004233211469,"Paper Towels, Sparkling Water",2
+0.008274004233211469,"Orange Juice, Trash Bags",2
+0.008274004233211469,"Paper Towels, Pretzels",2
+0.008274004233211469,"Sausages, Wine Bottle",2
+0.008081585530113526,"Sausages, Sugar",2
+0.008081585530113526,"Salsa Dip, Sugar",2
+0.008081585530113526,"Frozen Vegetables, Lettuce",2
+0.008081585530113526,"Frozen Vegetables, Oatmeal",2
+0.008081585530113526,"Chicken Breast, Salsa Dip",2
+0.008081585530113526,"Cola 2L, Orange Juice",2
+0.008081585530113526,"Beer 6-Pack, Salsa Dip",2
+0.008081585530113526,"Ice Cream, Sugar",2
+0.008081585530113526,"Ice Cream, Tortilla Chips",2
+0.008081585530113526,"Beer 6-Pack, Wine Bottle",2
+0.008081585530113526,"Dish Soap, Guacamole Dip",2
+0.008081585530113526,"Dish Soap, Energy Drink",2
+0.008081585530113526,"Cereal, Salsa Dip",2
+0.008081585530113526,"Cereal, Sugar",2
+0.008081585530113526,"Cheddar Cheese, Eggs (12ct)",2
+0.008081585530113526,"Cheddar Cheese, Dish Soap",2
+0.008081585530113526,"Cheddar Cheese, Guacamole Dip",2
+0.008081585530113526,"Cheddar Cheese, Frozen Fries",2
+0.008081585530113526,"Coffee, Wine Bottle",2
+0.008081585530113526,"Cola 2L, Greek Yogurt",2
+0.008081585530113526,"Orange Juice, White Bread",2
+0.008081585530113526,"Frozen Fries, Onions",2
+0.008081585530113526,"Oatmeal, Salsa Dip",2
+0.008081585530113526,"Milk 1L, Wine Bottle",2
+0.008081585530113526,"Bagels, Lettuce",2
+0.008081585530113526,"Bacon, Bananas",2
+0.008081585530113526,"Sparkling Water, Sugar",2
+0.008081585530113526,"Apples, Dish Soap",2
+0.008081585530113526,"Frozen Pizza, Greek Yogurt",2
+0.008081585530113526,"Eggs (12ct), Wine Bottle",2
+0.008081585530113526,"Ground Beef, Potato Chips",2
+0.008081585530113526,"Bananas, Croissants",2
+0.007889166827015586,"Cola 2L, Paper Towels",2
+0.007889166827015586,"Cola 2L, Sugar",2
+0.007889166827015586,"Frozen Vegetables, Orange Juice",2
+0.007889166827015586,"Pretzels, Whole Wheat Bread",2
+0.007889166827015586,"Ice Cream, Potato Chips",2
+0.007889166827015586,"Oatmeal, Sparkling Water",2
+0.007889166827015586,"Bagels, Sparkling Water",2
+0.007889166827015586,"Energy Drink, Frozen Vegetables",2
+0.007889166827015586,"Avocado, Ground Beef",2
+0.007889166827015586,"Eggs (12ct), Greek Yogurt",2
+0.007889166827015586,"Eggs (12ct), Oatmeal",2
+0.007889166827015586,"Beer 6-Pack, Paper Towels",2
+0.007889166827015586,"Bananas, Butter",2
+0.007889166827015586,"Bacon, Salsa Dip",2
+0.007889166827015586,"Cereal, Wine Bottle",2
+0.007889166827015586,"Beer 6-Pack, Laundry Detergent",2
+0.007889166827015586,"Laundry Detergent, Orange Juice",2
+0.007889166827015586,"Guacamole Dip, Paper Towels",2
+0.007889166827015586,"Beer 6-Pack, Guacamole Dip",2
+0.007889166827015586,"Dish Soap, Onions",2
+0.007889166827015586,"Bacon, Greek Yogurt",2
+0.007889166827015586,"Butter, Salsa Dip",2
+0.007889166827015586,"Beer 6-Pack, Sausages",2
+0.007889166827015586,"Cola 2L, Salsa Dip",2
+0.007889166827015586,"Coffee, Frozen Fries",2
+0.007889166827015586,"Cheddar Cheese, Cola 2L",2
+0.007889166827015586,"Chicken Breast, Orange Juice",2
+0.007889166827015586,"Greek Yogurt, Salsa Dip",2
+0.007889166827015586,"Butter, Sugar",2
+0.007889166827015586,"Avocado, Frozen Vegetables",2
+0.007889166827015586,"Bagels, Wine Bottle",2
+0.007889166827015586,"Frozen Fries, Potato Chips",2
+0.007889166827015586,"Apples, Frozen Pizza",2
+0.007889166827015586,"Bacon, Trash Bags",2
+0.007889166827015586,"Orange Juice, Whole Wheat Bread",2
+0.007696748123917645,"Salsa Dip, White Bread",2
+0.007696748123917645,"Avocado, Cola 2L",2
+0.007696748123917645,"Sparkling Water, Wine Bottle",2
+0.007696748123917645,"Apples, Ground Beef",2
+0.007696748123917645,"Cola 2L, Tortilla Chips",2
+0.007696748123917645,"Coffee, Sausages",2
+0.007696748123917645,"Coffee, Oatmeal",2
+0.007696748123917645,"Frozen Pizza, Pretzels",2
+0.007696748123917645,"Chicken Breast, Guacamole Dip",2
+0.007696748123917645,"Salsa Dip, Wine Bottle",2
+0.007696748123917645,"Bagels, Cheddar Cheese",2
+0.007696748123917645,"Butter, Cereal",2
+0.007696748123917645,"Butter, Frozen Pizza",2
+0.007696748123917645,"Butter, Greek Yogurt",2
+0.007696748123917645,"Cereal, Sausages",2
+0.007696748123917645,"Dish Soap, Salsa Dip",2
+0.007696748123917645,"Beer 6-Pack, Ice Cream",2
+0.007696748123917645,"Dish Soap, Frozen Vegetables",2
+0.007696748123917645,"Dish Soap, Greek Yogurt",2
+0.007696748123917645,"Cheddar Cheese, Frozen Vegetables",2
+0.007696748123917645,"Trash Bags, Whole Wheat Bread",2
+0.007696748123917645,"Potato Chips, Salsa Dip",2
+0.007696748123917645,"Orange Juice, Tomatoes",2
+0.007696748123917645,"Apples, Laundry Detergent",2
+0.007696748123917645,"Bacon, Tortilla Chips",2
+0.007696748123917645,"Avocado, Sausages",2
+0.007696748123917645,"Bananas, Salsa Dip",2
+0.007696748123917645,"Guacamole Dip, Oatmeal",2
+0.007696748123917645,"Butter, Energy Drink",2
+0.007696748123917645,"Butter, Sausages",2
+0.007696748123917645,"Beer 6-Pack, Butter",2
+0.007696748123917645,"Eggs (12ct), Energy Drink",2
+0.007696748123917645,"Eggs (12ct), Guacamole Dip",2
+0.007696748123917645,"Bagels, Bananas",2
+0.007696748123917645,"Bacon, Beer 6-Pack",2
+0.007696748123917645,"Avocado, Sugar",2
+0.007696748123917645,"Cereal, Ice Cream",2
+0.007696748123917645,"Chicken Breast, Coffee",2
+0.007696748123917645,"Cheddar Cheese, Ground Beef",2
+0.007696748123917645,"Coffee, Whole Wheat Bread",2
+0.007696748123917645,"Frozen Vegetables, Tortilla Chips",2
+0.007696748123917645,"Avocado, White Bread",2
+0.007696748123917645,"Bacon, Coffee",2
+0.007696748123917645,"Frozen Pizza, Lettuce",2
+0.007504329420819703,"Coffee, Milk 1L",2
+0.007504329420819703,"Cola 2L, Pretzels",2
+0.007504329420819703,"Cola 2L, Wine Bottle",2
+0.007504329420819703,"Cheddar Cheese, Pretzels",2
+0.007504329420819703,"Cheddar Cheese, Sparkling Water",2
+0.007504329420819703,"Bananas, Pretzels",2
+0.007504329420819703,"Laundry Detergent, Lettuce",2
+0.007504329420819703,"Laundry Detergent, Onions",2
+0.007504329420819703,"Cereal, Eggs (12ct)",2
+0.007504329420819703,"Butter, Pretzels",2
+0.007504329420819703,"Cheddar Cheese, Greek Yogurt",2
+0.007504329420819703,"Dish Soap, Lettuce",2
+0.007504329420819703,"Croissants, Potato Chips",2
+0.007504329420819703,"Bacon, Sausages",2
+0.007504329420819703,"Bananas, Guacamole Dip",2
+0.007504329420819703,"Energy Drink, Laundry Detergent",2
+0.007504329420819703,"Oatmeal, Orange Juice",2
+0.007504329420819703,"Onions, White Bread",2
+0.007504329420819703,"BBQ Sauce, Ground Beef",2
+0.007504329420819703,"Frozen Fries, Tomatoes",2
+0.007504329420819703,"Eggs (12ct), Trash Bags",2
+0.007504329420819703,"Milk 1L, Tortilla Chips",2
+0.007504329420819703,"Oatmeal, Whole Wheat Bread",2
+0.007504329420819703,"Oatmeal, Wine Bottle",2
+0.007504329420819703,"Apples, Frozen Fries",2
+0.007504329420819703,"Apples, Pretzels",2
+0.007504329420819703,"Potato Chips, Wine Bottle",2
+0.007504329420819703,"Apples, Sausages",2
+0.007504329420819703,"Paper Towels, Tomatoes",2
+0.007504329420819703,"Avocado, Dish Soap",2
+0.007504329420819703,"Apples, Bacon",2
+0.007504329420819703,"Apples, Ice Cream",2
+0.007504329420819703,"Apples, Chicken Breast",2
+0.007504329420819703,"Tortilla Chips, Wine Bottle",2
+0.007504329420819703,"Avocado, Bacon",2
+0.007504329420819703,"Trash Bags, Wine Bottle",2
+0.007504329420819703,"Sparkling Water, White Bread",2
+0.007311910717721763,"Pretzels, Sugar",2
+0.007311910717721763,"Pretzels, Sparkling Water",2
+0.007311910717721763,"Orange Juice, Potato Chips",2
+0.007311910717721763,"Bananas, Frozen Vegetables",2
+0.007311910717721763,"Bagels, Potato Chips",2
+0.007311910717721763,"Guacamole Dip, Orange Juice",2
+0.007311910717721763,"Bacon, Lettuce",2
+0.007311910717721763,"Frozen Vegetables, Potato Chips",2
+0.007311910717721763,"Cola 2L, Lettuce",2
+0.007311910717721763,"Chicken Breast, Potato Chips",2
+0.007311910717721763,"Butter, Onions",2
+0.007311910717721763,"Croissants, Salsa Dip",2
+0.007311910717721763,"Energy Drink, Sparkling Water",2
+0.007311910717721763,"Eggs (12ct), Pretzels",2
+0.007311910717721763,"Tortilla Chips, Trash Bags",2
+0.007311910717721763,"Beer 6-Pack, Eggs (12ct)",2
+0.007311910717721763,"Bananas, White Bread",2
+0.007311910717721763,"Butter, Cola 2L",2
+0.007311910717721763,"Beer 6-Pack, Cereal",2
+0.007311910717721763,"Milk 1L, Orange Juice",2
+0.007311910717721763,"Beer 6-Pack, Frozen Pizza",2
+0.007311910717721763,"Lettuce, Sparkling Water",2
+0.007311910717721763,"Greek Yogurt, Whole Wheat Bread",2
+0.007311910717721763,"Bananas, Beer 6-Pack",2
+0.007311910717721763,"Greek Yogurt, Sugar",2
+0.007311910717721763,"Cheddar Cheese, Salsa Dip",2
+0.007311910717721763,"Frozen Fries, Paper Towels",2
+0.007119492014623821,"Cereal, Orange Juice",2
+0.007119492014623821,"Guacamole Dip, Potato Chips",2
+0.007119492014623821,"Charcoal Bag, Ground Beef",2
+0.007119492014623821,"Onions, Paper Towels",2
+0.007119492014623821,"Oatmeal, Pretzels",2
+0.007119492014623821,"Coffee, Paper Towels",2
+0.007119492014623821,"Guacamole Dip, Pretzels",2
+0.007119492014623821,"Bagels, Oatmeal",2
+0.007119492014623821,"Eggs (12ct), Tortilla Chips",2
+0.007119492014623821,"White Bread, Wine Bottle",2
+0.007119492014623821,"Energy Drink, Tortilla Chips",2
+0.007119492014623821,"Avocado, Frozen Fries",2
+0.007119492014623821,"Apples, Butter",2
+0.007119492014623821,"Apples, White Bread",2
+0.007119492014623821,"Onions, Sausages",2
+0.007119492014623821,"Avocado, Tortilla Chips",2
+0.007119492014623821,"Greek Yogurt, Oatmeal",2
+0.007119492014623821,"Chicken Breast, Tortilla Chips",2
+0.007119492014623821,"Orange Juice, Sparkling Water",2
+0.007119492014623821,"Greek Yogurt, Orange Juice",2
+0.007119492014623821,"Milk 1L, Tomatoes",2
+0.007119492014623821,"Guacamole Dip, Onions",2
+0.007119492014623821,"Bacon, Tomatoes",2
+0.007119492014623821,"Chicken Breast, Oatmeal",2
+0.007119492014623821,"Potato Chips, Pretzels",2
+0.007119492014623821,"Pretzels, Tortilla Chips",2
+0.007119492014623821,"Salsa Dip, Tomatoes",2
+0.007119492014623821,"Peanut Butter, White Bread",2
+0.007119492014623821,"Avocado, Sparkling Water",2
+0.007119492014623821,"Orange Juice, Salsa Dip",2
+0.007119492014623821,"Pretzels, Trash Bags",2
+0.007119492014623821,"Cereal, Cheddar Cheese",2
+0.007119492014623821,"Apples, Eggs (12ct)",2
+0.007119492014623821,"Frozen Pizza, Onions",2
+0.007119492014623821,"Cereal, Chicken Breast",2
+0.007119492014623821,"Beer 6-Pack, Sugar",2
+0.007119492014623821,"Ice Cream, Lettuce",2
+0.007119492014623821,"Greek Yogurt, Tortilla Chips",2
+0.007119492014623821,"Dish Soap, Potato Chips",2
+0.007119492014623821,"Energy Drink, Onions",2
+0.00692707331152588,"Lettuce, Sugar",2
+0.00692707331152588,"Frozen Pizza, Tomatoes",2
+0.00692707331152588,"Frozen Fries, Oatmeal",2
+0.00692707331152588,"Energy Drink, Guacamole Dip",2
+0.00692707331152588,"Tortilla Chips, Whole Wheat Bread",2
+0.00692707331152588,"Apples, Sparkling Water",2
+0.00692707331152588,"Eggs (12ct), Potato Chips",2
+0.00692707331152588,"Frozen Vegetables, Wine Bottle",2
+0.00692707331152588,"Avocado, Salsa Dip",2
+0.00692707331152588,"Chicken Breast, Lettuce",2
+0.00692707331152588,"Frozen Vegetables, Tomatoes",2
+0.00692707331152588,"Potato Chips, White Bread",2
+0.00692707331152588,"Apples, Onions",2
+0.00692707331152588,"Tomatoes, White Bread",2
+0.00692707331152588,"Guacamole Dip, Sausages",2
+0.00692707331152588,"Coffee, Guacamole Dip",2
+0.00692707331152588,"Coffee, Orange Juice",2
+0.00692707331152588,"Cereal, Tomatoes",2
+0.00692707331152588,"Cereal, Pretzels",2
+0.00692707331152588,"Oatmeal, Tomatoes",2
+0.00692707331152588,"Bacon, Dish Soap",2
+0.00692707331152588,"Bacon, Guacamole Dip",2
+0.00692707331152588,"Oatmeal, Potato Chips",2
+0.00692707331152588,"Cereal, Energy Drink",2
+0.00692707331152588,"Guacamole Dip, Sparkling Water",2
+0.00692707331152588,"Beer 6-Pack, Onions",2
+0.00692707331152588,"Lettuce, Whole Wheat Bread",2
+0.00692707331152588,"Cereal, Frozen Fries",2
+0.00673465460842794,"Baby Food Jars, Baby Formula",2
+0.00673465460842794,"Avocado, Trash Bags",2
+0.00673465460842794,"Greek Yogurt, Sparkling Water",2
+0.00673465460842794,"Coffee, Energy Drink",2
+0.00673465460842794,"Coffee, White Bread",2
+0.00673465460842794,"Burger Buns, Ground Beef, Ketchup",3
+0.00673465460842794,"Potato Chips, Sausages",2
+0.00673465460842794,"Avocado, Guacamole Dip",2
+0.00673465460842794,"Cheddar Cheese, Oatmeal",2
+0.00673465460842794,"Greek Yogurt, Tomatoes",2
+0.00673465460842794,"Beer 6-Pack, Greek Yogurt",2
+0.00673465460842794,"Burger Buns, Ketchup",2
+0.00673465460842794,"Beer 6-Pack, Oatmeal",2
+0.00673465460842794,"Laundry Detergent, Oatmeal",2
+0.00673465460842794,"Bananas, Wine Bottle",2
+0.00673465460842794,"Bananas, Dish Soap",2
+0.00673465460842794,"Lettuce, Wine Bottle",2
+0.00673465460842794,"Milk 1L, Onions",2
+0.00673465460842794,"Avocado, Frozen Pizza",2
+0.00673465460842794,"Cola 2L, Tomatoes",2
+0.00673465460842794,"Cola 2L, Onions",2
+0.00673465460842794,"Apples, Tortilla Chips",2
+0.00673465460842794,"Apples, Wine Bottle",2
+0.00673465460842794,"Apples, Energy Drink",2
+0.00673465460842794,"Eggs (12ct), Sugar",2
+0.00673465460842794,"Frozen Fries, Tortilla Chips",2
+0.00673465460842794,"Frozen Pizza, Oatmeal",2
+0.006542235905329998,"Energy Drink, Potato Chips",2
+0.006542235905329998,"Dish Soap, Tomatoes",2
+0.006542235905329998,"Eggs (12ct), Salsa Dip",2
+0.006542235905329998,"Eggs (12ct), Tomatoes",2
+0.006542235905329998,"Avocado, Energy Drink",2
+0.006542235905329998,"Avocado, Cheddar Cheese",2
+0.006542235905329998,"BBQ Sauce, Burger Buns",2
+0.006542235905329998,"Avocado, Orange Juice",2
+0.006542235905329998,"Sugar, Tomatoes",2
+0.006542235905329998,"Coffee, Ground Beef",2
+0.006542235905329998,"Greek Yogurt, Ground Beef",2
+0.006542235905329998,"Bananas, Paper Towels",2
+0.006542235905329998,"Bananas, Ground Beef",2
+0.006542235905329998,"Bananas, Milk 1L",2
+0.006542235905329998,"Ground Beef, Onions",2
+0.006542235905329998,"Cheddar Cheese, Coffee",2
+0.006542235905329998,"Ground Beef, Lettuce",2
+0.006542235905329998,"Bananas, Frozen Fries",2
+0.006542235905329998,"Chicken Breast, Greek Yogurt",2
+0.006542235905329998,"Cheddar Cheese, Paper Towels",2
+0.006542235905329998,"Bananas, Whole Wheat Bread",2
+0.006542235905329998,"Lettuce, Orange Juice",2
+0.006542235905329998,"Milk 1L, Potato Chips",2
+0.006542235905329998,"Lettuce, Sausages",2
+0.006542235905329998,"Beer 6-Pack, Sparkling Water",2
+0.006542235905329998,"Beer 6-Pack, Tortilla Chips",2
+0.006542235905329998,"Bananas, Tortilla Chips",2
+0.006542235905329998,"Butter, Dish Soap",2
+0.006542235905329998,"Butter, Potato Chips",2
+0.006542235905329998,"Cereal, Greek Yogurt",2
+0.006542235905329998,"Guacamole Dip, Tomatoes",2
+0.006542235905329998,"Tomatoes, Wine Bottle",2
+0.006542235905329998,"Coffee, Eggs (12ct)",2
+0.006542235905329998,"Bacon, Potato Chips",2
+0.006542235905329998,"Orange Juice, Wine Bottle",2
+0.006542235905329998,"Pretzels, Wine Bottle",2
+0.006349817202232057,"Onions, Wine Bottle",2
+0.006349817202232057,"Coffee, Lettuce",2
+0.006349817202232057,"Greek Yogurt, Potato Chips",2
+0.006349817202232057,"Ground Beef, Tomatoes",2
+0.006349817202232057,"Tomatoes, Tortilla Chips",2
+0.006349817202232057,"Parmesan Cheese, Spaghetti, Tomato Pasta Sauce",3
+0.006349817202232057,"Bananas, Potato Chips",2
+0.006349817202232057,"Coffee, Frozen Vegetables",2
+0.006349817202232057,"Avocado, Oatmeal",2
+0.006349817202232057,"Avocado, Ice Cream",2
+0.006349817202232057,"Orange Juice, Sugar",2
+0.006349817202232057,"Avocado, Potato Chips",2
+0.006349817202232057,"Cereal, Ground Beef",2
+0.006349817202232057,"Lettuce, White Bread",2
+0.006349817202232057,"Bananas, Cola 2L",2
+0.006349817202232057,"Bananas, Cheddar Cheese",2
+0.006349817202232057,"Burger Buns, Charcoal Bag, Ground Beef",3
+0.006349817202232057,"Parmesan Cheese, Tomato Pasta Sauce",2
+0.006349817202232057,"Apples, Greek Yogurt",2
+0.006349817202232057,"Avocado, Bananas",2
+0.006349817202232057,"Apples, Whole Wheat Bread",2
+0.006349817202232057,"Apples, Trash Bags",2
+0.006349817202232057,"Parmesan Cheese, Spaghetti",2
+0.006349817202232057,"Bacon, Cereal",2
+0.006349817202232057,"Bananas, Energy Drink",2
+0.006349817202232057,"Cheddar Cheese, Orange Juice",2
+0.006157398499134116,"Potato Chips, Sugar",2
+0.006157398499134116,"Avocado, Beer 6-Pack",2
+0.006157398499134116,"Bagels, Onions",2
+0.006157398499134116,"Greek Yogurt, Lettuce",2
+0.006157398499134116,"Orange Juice, Tortilla Chips",2
+0.006157398499134116,"Bagels, Tortilla Chips",2
+0.006157398499134116,"Onions, Whole Wheat Bread",2
+0.006157398499134116,"Beer 6-Pack, Cheddar Cheese",2
+0.006157398499134116,"Salsa Dip, Sparkling Water",2
+0.006157398499134116,"Sausages, Sparkling Water",2
+0.006157398499134116,"Cereal, Sparkling Water",2
+0.006157398499134116,"Cereal, Potato Chips",2
+0.006157398499134116,"Guacamole Dip, Lettuce",2
+0.006157398499134116,"Cheddar Cheese, Tortilla Chips",2
+0.006157398499134116,"Guacamole Dip, Trash Bags",2
+0.006157398499134116,"Lettuce, Milk 1L",2
+0.006157398499134116,"Butter, Lettuce",2
+0.006157398499134116,"Bananas, Sugar",2
+0.006157398499134116,"Apples, Sugar",2
+0.006157398499134116,"Apples, Guacamole Dip",2
+0.006157398499134116,"Apples, Beer 6-Pack",2
+0.006157398499134116,"Avocado, Butter",2
+0.006157398499134116,"Cheddar Cheese, Lettuce",2
+0.005964979796036175,"BBQ Sauce, Burger Buns, Charcoal Bag",3
+0.005964979796036175,"Sparkling Water, Tortilla Chips",2
+0.005964979796036175,"Bananas, Tomatoes",2
+0.005964979796036175,"Cheddar Cheese, Croissants",2
+0.005964979796036175,"Cheddar Cheese, Tomatoes",2
+0.005964979796036175,"Frozen Pizza, Tortilla Chips",2
+0.005964979796036175,"Avocado, Cereal",2
+0.005964979796036175,"Avocado, Coffee",2
+0.005964979796036175,"Apples, Avocado",2
+0.005964979796036175,"Potato Chips, Sparkling Water",2
+0.005964979796036175,"Apples, Cereal",2
+0.005964979796036175,"Lettuce, Tomatoes",2
+0.005964979796036175,"Bananas, Lettuce",2
+0.005964979796036175,"Cereal, Onions",2
+0.005964979796036175,"Lettuce, Trash Bags",2
+0.005964979796036175,"Bananas, Sparkling Water",2
+0.005964979796036175,"Lettuce, Tortilla Chips",2
+0.005964979796036175,"Beer 6-Pack, Coffee",2
+0.005964979796036175,"Bananas, Ice Cream",2
+0.005964979796036175,"Potato Chips, Tomatoes",2
+0.005964979796036175,"Coffee, Tomatoes",2
+0.005772561092938233,"Energy Drink, Salsa Dip",2
+0.005772561092938233,"Energy Drink, Oatmeal",2
+0.005772561092938233,"Frozen Pizza, Sparkling Water",2
+0.005772561092938233,"BBQ Sauce, Burger Buns, Ground Beef",3
+0.005772561092938233,"Tomato Pasta Sauce, White Bread",2
+0.005772561092938233,"Apples, Cheddar Cheese",2
+0.005772561092938233,"Bagels, Tomatoes",2
+0.005772561092938233,"Coffee, Greek Yogurt",2
+0.005772561092938233,"Chicken Breast, Onions",2
+0.005772561092938233,"Beer 6-Pack, Tomatoes",2
+0.005772561092938233,"Bananas, Eggs (12ct)",2
+0.005772561092938233,"Milk 1L, Oatmeal",2
+0.005772561092938233,"Bananas, Oatmeal",2
+0.005772561092938233,"Apples, Lettuce",2
+0.005772561092938233,"Coffee, Tortilla Chips",2
+0.005772561092938233,"Onions, Trash Bags",2
+0.005772561092938233,"Sausages, Tomatoes",2
+0.005580142389840293,"Apples, Milk 1L",2
+0.005580142389840293,"Sparkling Water, Tomatoes",2
+0.005580142389840293,"Oatmeal, Onions",2
+0.005580142389840293,"Energy Drink, Tomatoes",2
+0.005580142389840293,"BBQ Sauce, Charcoal Bag, Ground Beef",3
+0.005580142389840293,"Bananas, Greek Yogurt",2
+0.005580142389840293,"Cereal, Tortilla Chips",2
+0.005580142389840293,"Avocado, Pretzels",2
+0.005580142389840293,"Apples, Salsa Dip",2
+0.005387723686742351,"Avocado, Greek Yogurt",2
+0.005387723686742351,"Apples, Bananas",2
+0.005387723686742351,"Onions, Sparkling Water",2
+0.005387723686742351,"Orange Juice, Pretzels",2
+0.005387723686742351,"BBQ Sauce, Burger Buns, Charcoal Bag, Ground Beef",4
+0.005387723686742351,"Pretzels, Tomatoes",2
+0.005387723686742351,"Beer 6-Pack, Diapers Pack",2
+0.005387723686742351,"Bananas, Laundry Detergent",2
+0.005387723686742351,"Guacamole Dip, Salsa Dip, Tortilla Chips",3
+0.005387723686742351,"Frozen Vegetables, Sparkling Water",2
+0.005387723686742351,"Frozen Vegetables, Onions",2
+0.00519530498364441,"Energy Drink, Lettuce",2
+0.00519530498364441,"Coffee, Potato Chips",2
+0.00519530498364441,"Apples, Cola 2L",2
+0.00519530498364441,"Croissants, Lettuce",2
+0.00519530498364441,"Oatmeal, Tortilla Chips",2
+0.00519530498364441,"Lettuce, Pretzels",2
+0.00519530498364441,"Burger Buns, Sausages",2
+0.00519530498364441,"Lettuce, Salsa Dip",2
+0.00519530498364441,"Onions, Salsa Dip",2
+0.00519530498364441,"Tomatoes, Whole Wheat Bread",2
+0.0050028862805464695,"Eggs (12ct), Onions",2
+0.0050028862805464695,"Cereal, Lettuce",2
+0.0050028862805464695,"Butter, Tomatoes",2
+0.0050028862805464695,"Cheddar Cheese, Potato Chips",2
+0.0050028862805464695,"Bananas, Coffee",2
+0.0050028862805464695,"Greek Yogurt, Onions",2
+0.0050028862805464695,"Onions, Tortilla Chips",2
